@@ -16,7 +16,7 @@ class App extends StatelessWidget {
             seedColor: const Color.fromARGB(255, 62, 23, 129)),
         useMaterial3: true,
       ),
-      home: const HomePage(title: 'Programa Layout'),
+      home: const HomePage(title: 'Layout'),
     );
   }
 }
@@ -50,7 +50,7 @@ class _HomePageState extends State<HomePage> {
               child: Container(
                 alignment: Alignment.center,
                 // color: const Color.fromARGB(255, 44, 136, 211),
-                child: const Text('Layout superior'),
+                child: const Text('Biblioteca'),
               ),
             ),
             Expanded(
@@ -80,7 +80,7 @@ class _HomePageState extends State<HomePage> {
                           ),
                         ],
                       ),
-                      child: const Text('Meu app'),
+                      child: const Text('Livros'),
                     ),
                   ),
                   Expanded(
@@ -98,7 +98,7 @@ class _HomePageState extends State<HomePage> {
               child: Container(
                 alignment: Alignment.center,
                 // color: const Color.fromARGB(255, 179, 32, 154),
-                child: const Text('Layout Iferior'),
+                child: const Text('Biblioteca'),
               ),
             ),
           ],

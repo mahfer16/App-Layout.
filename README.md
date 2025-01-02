@@ -12,5 +12,5 @@ Alguns recursos para você começar se este for seu primeiro projeto Flutter:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 Para obter ajuda para começar a usar o desenvolvimento do Flutter, consulte o
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[online documentation](https://docs.flutter.dev/), que oferece tutoriais,
+exemplos, orientação sobre desenvolvimento móvel e uma referência completa de API.
